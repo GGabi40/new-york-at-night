@@ -32,10 +32,10 @@
 | Azul Nocturno        | `#1a1a2e`   | 26 26 46       | 240° 28% 14%   | ![#1a1a2e](https://via.placeholder.com/15/1a1a2e/000000?text=+) |
 | Azul Profundo        | `#000011`   | 0 0 17         | 240° 100% 3%   | ![#000011](https://via.placeholder.com/15/000011/000000?text=+) |
 | Azul Oscuro          | `#00000f`   | 0 0 15         | 240° 100% 7%   | ![#00000f](https://via.placeholder.com/15/00000f/000000?text=+) |
-| Verde Menta (Variables) | `#98ff98` | 152 255 152    | 120° 100% 80%  | ![#98ff98](https://via.placeholder.com/15/98ff98/000000?text=+)  |
-| Magenta (Funciones)  | `#e91e63`   | 233 30 99      | 340° 81% 52%   | ![#e91e63](https://via.placeholder.com/15/e91e63/000000?text=+) |
-| Azul Cian (Comandos) | `#00bcd4`   | 0 188 212      | 187° 100% 42%  | ![#00bcd4](https://via.placeholder.com/15/00bcd4/000000?text=+) |
-| Verde Menta Suave (Selectores) | `#00ffab` | 0 255 171 | 156° 100% 50% | ![#00ffab](https://via.placeholder.com/15/00ffab/000000?text=+) |
+| Verde Menta | `#98ff98` | 152 255 152    | 120° 100% 80%  | ![#98ff98](https://via.placeholder.com/15/98ff98/000000?text=+)  |
+| Magenta  | `#e91e63`   | 233 30 99      | 340° 81% 52%   | ![#e91e63](https://via.placeholder.com/15/e91e63/000000?text=+) |
+| Azul Cian | `#00bcd4`   | 0 188 212      | 187° 100% 42%  | ![#00bcd4](https://via.placeholder.com/15/00bcd4/000000?text=+) |
+| Verde Menta Suave | `#00ffab` | 0 255 171 | 156° 100% 50% | ![#00ffab](https://via.placeholder.com/15/00ffab/000000?text=+) |
 
 
 ## Créditos
