@@ -1,4 +1,4 @@
-<h1>New York At Night</h1>
+<h1>New York At Night Theme</h1>
 
 <img src="./themes/img-preview/timeSquare.jpg" style="width: 300px; height: auto; border-radius: 10px;">
 
@@ -22,5 +22,9 @@
 ## Contribuir
 ¡Tu feedback y contribuciones son bienvenidos! Si encuentras algún problema o tienes sugerencias, por favor abre un <a href="https://github.com/GGabi40/new-york-at-night/issues?formCode=MG0AV3">issue</a> en el repositorio.
 
+
 ## Créditos
-Desarrollado por <a href="instagram.com/@ggabi40">GGabi40</a>.
+<div style="border: 2px solid #000; padding: 10px; display: inline-block;">
+    <img src="https://avatars.githubusercontent.com/u/107872122?v=4" alt="Foto de GGabi40" style="width: 100px; height: auto; border-radius: 50%;">
+</div>
+Desarrollado por <a href="https://www.instagram.com/ggabi40">@ggabi40</a>.
