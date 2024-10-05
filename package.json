@@ -8,10 +8,10 @@
     "type": "git",
     "url": "https://github.com/GGabi40/new-york-at-night"
   },
+  "icon":"icon.png",
   "engines": {
     "vscode": "^1.94.0"
   },
-  "icon":"./themes/img-preview/icon.png",
   "categories": [
     "Themes"
   ],
