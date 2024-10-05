@@ -1,12 +1,13 @@
 {
   "name": "newyorkatnight",
-  "displayName": "NewYorkatNight",
-  "description": "a new theme",
+  "displayName": "New York at Night",
+  "version": "0.1.0",
+  "description": "A VS Code theme inspired by New York at night.",
+  "publisher": "GGabi40",
   "repository": {
     "type": "git",
     "url": "https://github.com/GGabi40/new-york-at-night"
   },
-  "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"
   },
