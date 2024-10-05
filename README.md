@@ -1,6 +1,6 @@
 <h1>New York At Night</h1>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcitydays.com%2Farticles%2Fthings-to-do-in-nyc-at-night%2F&psig=AOvVaw2OcE3m7v_7OSl1Pz1iU9Ge&ust=1728184338429000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCKs76i9ogDFQAAAAAdAAAAABAE">
+<img src="./themes/img-preview/timeSquare.jpg" style="width: 300px; height: auto; border-radius: 10px;">
 
 ## Descripción
 
