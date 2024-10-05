@@ -19,20 +19,25 @@
 ![Captura de Pantalla 2](./themes/img-preview/NewYorkAtNight-preview2.png)
 
 ## Contribuir
+
 ¡Tu feedback y contribuciones son bienvenidos! Si encuentras algún problema o tienes sugerencias, por favor abre un <a href="https://github.com/GGabi40/new-york-at-night/issues?formCode=MG0AV3">issue</a> en el repositorio.
 
 ## Paleta de Colores
 
-| Color                            | Código Hex   |
-|----------------------------------|--------------|
-| Negro Profundo (Fondo)           | ![#00000f](https://via.placeholder.com/15/00000f/000000?text=+) | `#00000f`  |
-| Blanco Pálido            | ![#eeffff](https://via.placeholder.com/15/eeffff/000000?text=+) | `#eeffff`  |
-| Gris Claro            | ![#e3e3e3](https://via.placeholder.com/15/e3e3e3/000000?text=+) | `#e3e3e3`  |
-| Amarillo Brillante     | ![#ffee00](https://via.placeholder.com/15/ffee00/000000?text=+) | `#ffee00`  |
-| Azul Nocturno         | ![#1a1a2e](https://via.placeholder.com/15/1a1a2e/000000?text=+) | `#1a1a2e`  |
-| Azul Profundo   | ![#000011](https://via.placeholder.com/15/000011/000000?text=+) | `#000011`  |
-| Azul Oscuro   | ![#00000f](https://via.placeholder.com/15/00000f/000000?text=+) | `#00000f`  |
-| Blanco Pálido  | ![#eeffff](https://via.placeholder.com/15/eeffff/000000?text=+) | `#eeffff`  |
+| Color              | Código Hex                                                      |
+| ------------------ | --------------------------------------------------------------- | --------- |
+| Negro Profundo     | ![#00000f](https://via.placeholder.com/15/00000f/000000?text=+) | `#00000f` |
+| Blanco Pálido      | ![#eeffff](https://via.placeholder.com/15/eeffff/000000?text=+) | `#eeffff` |
+| Gris Claro         | ![#e3e3e3](https://via.placeholder.com/15/e3e3e3/000000?text=+) | `#e3e3e3` |
+| Amarillo Brillante | ![#ffee00](https://via.placeholder.com/15/ffee00/000000?text=+) | `#ffee00` |
+| Azul Nocturno      | ![#1a1a2e](https://via.placeholder.com/15/1a1a2e/000000?text=+) | `#1a1a2e` |
+| Azul Profundo      | ![#000011](https://via.placeholder.com/15/000011/000000?text=+) | `#000011` |
+| Azul Oscuro        | ![#00000f](https://via.placeholder.com/15/00000f/000000?text=+) | `#00000f` |
+| Blanco Pálido      | ![#eeffff](https://via.placeholder.com/15/eeffff/000000?text=+) | `#eeffff` |
+| Verde Menta        | ![#98ff98](https://via.placeholder.com/15/98ff98/000000?text=+) | `#98ff98` |
+| Magenta            | ![#e91e63](https://via.placeholder.com/15/e91e63/000000?text=+) | `#e91e63` |
+| Azul Cian          | ![#00bcd4](https://via.placeholder.com/15/00bcd4/000000?text=+) | `#00bcd4` |
+| Verde Menta Suave  | ![#00ffab](https://via.placeholder.com/15/00ffab/000000?text=+) | `#00ffab` |
 
 ## Créditos
 
@@ -51,6 +56,6 @@
 
 Desarrollado por <a href="https://www.instagram.com/ggabi40">@GGabi40</a>.
 
-
 ### Colores Basados en
+
 Los colores de este tema están inspirados en el <a href="https://github.com/getomni/omni">Omni Theme</a>.
