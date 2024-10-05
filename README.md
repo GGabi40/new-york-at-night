@@ -45,11 +45,6 @@
 
 <table style="border: 2px solid #00d0ff;">
     <tr>
-        <td style="padding: 10px;">
-            <img src="https://avatars.githubusercontent.com/u/107872122?v=4" alt="Foto de GGabi40" style="width: 150px; height: auto;">
-        </td>
-    </tr>
-    <tr>
         <td style="text-align: center; padding: 10px;">
             <strong>Gabriela Baptista</strong>
         </td>
