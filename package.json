@@ -1,7 +1,7 @@
 {
   "name": "newyorkatnight",
   "displayName": "New York at Night",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A VS Code theme inspired by New York at night.",
   "publisher": "GGabi40",
   "repository": {
@@ -11,6 +11,7 @@
   "engines": {
     "vscode": "^1.94.0"
   },
+  "icon":"./themes/img-preview/icon.png",
   "categories": [
     "Themes"
   ],
