@@ -31,4 +31,4 @@
         </td>
     </tr>
 </table>
-Desarrollado por <a href="https://www.instagram.com/ggabi40">@ggabi40</a>.
+Desarrollado por <a href="https://www.instagram.com/ggabi40">@GGabi40</a>.
