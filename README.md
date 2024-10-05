@@ -40,7 +40,7 @@
 
 ## Créditos
 
-<table style="border: 2px solid #00d0ff; padding: 10px;">
+<table style="border: 2px solid #00d0ff;">
     <tr>
         <td style="padding: 10px;">
             <img src="https://avatars.githubusercontent.com/u/107872122?v=4" alt="Foto de GGabi40" style="width: 150px; height: auto;">
@@ -57,4 +57,4 @@ Desarrollado por <a href="https://www.instagram.com/ggabi40">@GGabi40</a>.
 
 
 ### Colores Basados en
-Los colores de este tema están inspirados en el <a href="https://github.com/getomni/omni">Omni Theme</a>.
+Los colores de este tema están inspirados en el <a href="https://github.com/getomni/omni">Omni Theme</a>. Gracias equipo <a href="https://github.com/rocketseat">Rocketseat</a>.
