@@ -1,0 +1,21 @@
+{
+  "name": "newyorkatnight",
+  "displayName": "NewYorkatNight",
+  "description": "a new theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NewYorkatNight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NewYorkatNight-color-theme.json"
+      }
+    ]
+  }
+}
