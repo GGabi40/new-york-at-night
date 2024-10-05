@@ -22,7 +22,6 @@
 
 ¡Tu feedback y contribuciones son bienvenidos! Si encuentras algún problema o tienes sugerencias, por favor abre un <a href="https://github.com/GGabi40/new-york-at-night/issues?formCode=MG0AV3">issue</a> en el repositorio.
 
-
 ## Paleta de Colores
 
 | Color                | Código Hex                                                      |
@@ -38,8 +37,7 @@
 | Verde Menta          | ![#98ff98](https://via.placeholder.com/15/98ff98/000000?text=+)  | `#98ff98` |
 | Magenta              | ![#e91e63](https://via.placeholder.com/15/e91e63/000000?text=+) | `#e91e63` |
 | Azul Cian            | ![#00bcd4](https://via.placeholder.com/15/00bcd4/000000?text=+) | `#00bcd4` |
-| Verde Menta Suave    | ![#00ffab](https://via.placeholder.com/15/00ffab/000000?text=+) | `#00ffab` |
-
+| Verde Menta Suave    | ![#00ffab](https://via.placeholder.com/15/00ffab/000000?text=+) | `#00ffab`
 
 ## Créditos
 
