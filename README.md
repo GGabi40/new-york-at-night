@@ -1,6 +1,9 @@
 <h1>New York At Night Theme</h1>
 
-<img src="./themes/img-preview/timeSquare.jpg" style="width: 300px; height: auto; border-radius: 10px;">
+<figure>
+    <img src="./themes/img-preview/timeSquare.jpg" style="width: 300px; height: auto; border-radius: 10px;">
+    <figcaption>Dark theme for <a href="https://code.visualstudio.com/">VsCode</a>.</figcaption>
+</figure>
 
 ## Descripción
 
@@ -54,6 +57,7 @@
 </table>
 
 Desarrollado por <a href="https://www.instagram.com/ggabi40">@GGabi40</a>.
+<p>05 de Octubre del año 2024.</p>
 
 
 ### Colores Basados en
