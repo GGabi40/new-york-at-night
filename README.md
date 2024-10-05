@@ -24,7 +24,11 @@
 
 
 ## Créditos
-<div style="border: 2px solid #000; padding: 10px; display: inline-block;">
-    <img src="https://avatars.githubusercontent.com/u/107872122?v=4" alt="Foto de GGabi40" style="width: 100px; height: auto; border-radius: 50%;">
-</div>
+<table style="border: 2px solid #00d0ff; padding: 10px;">
+    <tr>
+        <td style="padding: 10px;">
+            <img src="https://avatars.githubusercontent.com/u/107872122?v=4" alt="Foto de GGabi40" style="width: 100px; height: auto; border-radius: 50%;">
+        </td>
+    </tr>
+</table>
 Desarrollado por <a href="https://www.instagram.com/ggabi40">@ggabi40</a>.
