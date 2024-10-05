@@ -2,7 +2,7 @@
 
 <figure>
     <img src="./themes/img-preview/timeSquare.jpg" style="width: 300px; height: auto; border-radius: 10px;">
-    <figcaption>Dark theme for <a href="https://code.visualstudio.com/">VsCode</a>.</figcaption>
+    <figcaption>Dark theme for <a href="https://code.visualstudio.com/">VSCode</a>.</figcaption>
 </figure>
 
 ## Descripción
