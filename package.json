@@ -1,14 +1,14 @@
 {
-  "name": "newyorkatnight",
-  "displayName": "New York at Night",
+  "name": "newyorkatnighttheme",
+  "displayName": "New York at Night Theme",
   "version": "1.0.4",
-  "description": "A VS Code theme inspired by New York at night.",
+  "description": "A VS Code theme inspired by the vibrant night lights of New York City. Ideal for programming in dark mode with stylish syntax highlighting.",
   "publisher": "GGabi40",
   "repository": {
     "type": "git",
     "url": "https://github.com/GGabi40/new-york-at-night"
   },
-  "icon":"icon.png",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -18,10 +18,21 @@
   "contributes": {
     "themes": [
       {
-        "label": "New York at Night",
+        "label": "New York at Night Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/NewYorkatNight-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "VS Code theme",
+    "New York theme",
+    "nocturnal",
+    "dark mode",
+    "programming",
+    "developer",
+    "syntax highlighting"
+  ]
 }
