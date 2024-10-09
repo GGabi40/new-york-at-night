@@ -41,18 +41,6 @@
 | Verde Menta Suave | `#00ffab` | 0 255 171 | 156° 100% 50% | ![#00ffab](https://via.placeholder.com/15/00ffab/000000?text=+) |
 
 
-## Lenguajes Compatibles
-
-- Java
-- JavaScript
-- Python
-- C#
-- HTML
-- CSS
-- SASS
-- JSX
-
-
 ## Créditos
 
 <table style="border: 2px solid #00d0ff;">
