@@ -26,8 +26,8 @@
 		// Color de fondo de la barra de estado
 		"statusBar.background": "#000011",
 		/* Tabs */
-		"tab.activeBackground": "#00000f",
-		"tab.inactiveBackground": "#1a1a2e",
+		"tab.activeBackground": "#1a1a2e",
+		"tab.inactiveBackground": "#00000f",
 		"tab.activeForeground": "#eeffff",
 		"tab.border": "#1a1a2e",
 		"tab.activeBorder": "#00596c",
@@ -82,7 +82,10 @@
 		"editorSuggestWidget.foreground": "#eeffff",
 		"editorSuggestWidget.selectedBackground": "#2e2e4db1",
 		"editorSuggestWidget.highlightForeground": "#00ffab",
-		"editorSuggestWidget.border": "#1a1a2e"
+		"editorSuggestWidget.border": "#1a1a2e",
+		// git lineas modif
+		"editorGutter.addedBackground": "#00FF00",
+		"editorGutter.modifiedBackground": "#00d0ff"
 	},
 	"tokenColors": [
 		{
@@ -103,7 +106,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ffeeee"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -142,8 +145,6 @@
 			"scope": [
 				"keyword.control",
 				"constant.other.color",
-				"punctuation",
-				"meta.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.section.embedded",
 				"keyword.other.template",
@@ -170,7 +171,7 @@
 				"string.quoted.single.html"
 			],
 			"settings": {
-				"foreground": "#DEE08C"
+				"foreground": "#E8EC86"
 			}
 		},
 		{
@@ -227,7 +228,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f1f1f1"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -257,6 +258,17 @@
 			}
 		},
 		{
+			"name": "Parameters in Use",
+			"scope": [
+				"variable.parameter.js",
+				"meta.parameters.js",
+				"meta.method.declaration.js"
+			],
+			"settings": {
+				"foreground": "#fbbe69"
+			}
+		},
+		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
 				"string",
@@ -268,7 +280,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#dee08c"
+				"foreground": "#E8EC86"
 			}
 		},
 		{
@@ -293,7 +305,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#ced6b2"
+				"foreground": "#a2fa73"
 			}
 		},
 		{
@@ -308,7 +320,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#6ccac9"
+				"foreground": "#4ded63"
 			}
 		},
 		{
@@ -329,7 +341,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#ff798f"
 			}
 		},
 		{
@@ -433,7 +445,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#FF69B4"
 			}
 		},
 		{
@@ -753,7 +765,7 @@
 				"source.python"
             ],
             "settings": {
-                "foreground": "#aee4fb"
+                "foreground": "#ffffff"
             }
         },
         {
@@ -763,7 +775,7 @@
                 "keyword.control.flow.python"
             ],
             "settings": {
-                "foreground": "#ff69b4" // Rosa para palabras clave en Python
+                "foreground": "#ff69b4"
             }
         },
 		{
@@ -772,7 +784,7 @@
 				"support.function.builtin.python"
 			],
 			"settings": {
-				"foreground": "#b388ff"
+				"foreground": "#F788FF"
 			}
 		},
 		{
@@ -814,6 +826,73 @@
 			"settings": {
 				"foreground": "#ef7dc7"
 			}
-		}		
+		},
+		{
+			"name": "JSX Import Keywords",
+			"scope": [
+				"keyword.control.import.js",
+				"keyword.control.import.jsx",
+				"keyword.control.from.js",
+				"keyword.control.from.jsx",
+				"keyword.control.export.js.jsx"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#FF62B0"
+			}
+		},
+		{
+			"name": "C# Property Variables",
+			"scope": [
+				"entity.name.variable.property.cs",
+				"source.cs entity.name.variable.property"
+			],
+			"settings": {
+				"foreground": "#ffffff"
+			}
+		},
+		{
+			"name": "C# Accessors",
+			"scope": [
+				"storage.type.accessor.get.cs",
+				"storage.type.accessor.set.cs"
+			],
+			"settings": {
+				"foreground": "#5cf7a9",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "C# Variable Types",
+			"scope": [
+				"keyword.type.cs",
+				"keyword.type.int.cs",
+				"keyword.type.string.cs",
+				"keyword.type.float.cs",
+				"keyword.type.double.cs",
+				"keyword.type.bool.cs",
+				"keyword.type.byte.cs",
+				"keyword.type.char.cs",
+				"keyword.type.decimal.cs",
+				"keyword.type.dynamic.cs",
+				"keyword.type.long.cs",
+				"keyword.type.object.cs",
+				"keyword.type.short.cs"
+			],
+			"settings": {
+				"foreground": "#ffc760",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "C# Local Variables",
+			"scope": [
+				"entity.name.variable.local.cs",
+				"source.cs entity.name.variable.local"
+			],
+			"settings": {
+				"foreground": "#fffcee"
+			}
+		}
 	]
 }
