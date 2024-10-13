@@ -51,7 +51,7 @@
 		"editor.findMatchHighlightBackground": "#8e376b50",
 		"editor.findRangeHighlightBackground": "#1a1a2e9d",
 		// Selección
-		"editor.selectionBackground": "#11395a8b",
+		"editor.selectionBackground": "#0e49798b",
 		"editor.lineHighlightBackground": "#0a0a1f",
 		"editor.hoverHighlightBackground": "#0c214d65",
 		// Resaltado de palabras
@@ -785,6 +785,26 @@
 			],
 			"settings": {
 				"foreground": "#F788FF"
+			}
+		},
+		{
+			"name": "Python Long Comments",
+			"scope": [
+				"string.quoted.docstring.multi.python",
+				"comment.block.documentation.python"
+			],
+			"settings": {
+				"foreground": "#3C668B"
+			}
+		},
+		{
+			"name": "Python Docstring Delimiters",
+			"scope": [
+				"string.quoted.docstring.multi.python punctuation.definition.string.begin.python",
+				"string.quoted.docstring.multi.python punctuation.definition.string.end.python"
+			],
+			"settings": {
+				"foreground": "#3C668B"
 			}
 		},
 		{
