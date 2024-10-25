@@ -913,6 +913,16 @@
 			"settings": {
 				"foreground": "#fffcee"
 			}
+		},
+		{
+			"name": "PHP Delimiters",
+			"scope": [
+				"punctuation.section.embedded.begin.php",
+				"punctuation.section.embedded.end.php"
+			],
+			"settings": {
+				"foreground": "#cbaeef"
+			}
 		}
 	]
 }
